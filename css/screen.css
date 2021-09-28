@@ -1,0 +1,10 @@
+body {
+	background-color: #313EEF;
+}
+
+/*Desktop*/
+@media screen and (min-width: 1000px) {
+	.form .btn-container {
+		width: 30%;
+	}
+}
