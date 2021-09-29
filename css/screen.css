@@ -1,5 +1,21 @@
+/*mobile*/
 body {
 	background-color: #313EEF;
+	font-family: system-ui;
+}
+
+fieldset {
+	border: yellow solid;
+		text-align: center;
+		height: 200px;
+		margin: 0 auto;
+}
+
+header {
+	background-color: #F8AE45;
+	color: #313EEF;
+	width: 100%;
+	position: fixed;
 }
 
 /*Desktop*/
