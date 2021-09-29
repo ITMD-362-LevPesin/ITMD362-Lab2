@@ -16,6 +16,8 @@ header {
 	color: #313EEF;
 	width: 100%;
 	position: fixed;
+	text-align: center;
+	font: 17pt
 }
 
 /*Desktop*/
