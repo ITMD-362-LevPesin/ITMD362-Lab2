@@ -59,7 +59,6 @@ header{
     width: 35%;
     height: 2em;
     background-color: yellow;
-	text-color: black;
     border-radius: 10px;
 }
 
@@ -67,6 +66,5 @@ header{
 @media screen and (min-width: 1000px) {
 	.form .btn-container {
 		width: 30%;
-		positon: center;
 	}
 }
