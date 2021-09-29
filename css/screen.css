@@ -33,16 +33,15 @@ header{
 }
 
 .form .label{
-    font-size: 5em;
+    font-size: 2em;
     width: 90%;
-    margin: 3em auto;
+    margin: 1em auto;
     text-align: left
 }
 
 .form fieldset legend{
-	
     font-size: 2.5em;
-    text-align: right;
+    text-align: center;
 }
 
 .form fieldset{
@@ -56,10 +55,12 @@ header{
     text-align: center;
 }
 
-#button {
-	margin-top: 1em;
-	color: green;
-	background-color: yellow; 
+#button{
+    width: 35%;
+    height: 4em;
+    background-color: yellow;
+	text-color: black;
+    border-radius: 10px;
 }
 
 /*Desktop*/
