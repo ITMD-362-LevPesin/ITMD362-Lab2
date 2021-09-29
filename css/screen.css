@@ -40,8 +40,9 @@ header{
 }
 
 .form fieldset legend{
+	
     font-size: 2.5em;
-    text-align: center;
+    text-align: right;
 }
 
 .form fieldset{
