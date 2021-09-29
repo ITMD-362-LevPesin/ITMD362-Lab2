@@ -2,18 +2,12 @@
 body {
 	background-color: #313EEF;
 	font-family: system-ui;
-	font: 17px;
-}
-
-div {
-	font-size: 2em;
-	height: 100px;
 }
 
 fieldset {
 	border: yellow solid;
-	text-align: center;
-	height: 200px;
+		text-align: center;
+		height: 200px;
 }
 
 header {
@@ -21,7 +15,6 @@ header {
 	color: #313EEF;
 	width: 100%;
 	position: fixed;
-	margin: 1em auto;
 }
 
 #button {
@@ -30,13 +23,13 @@ header {
 	font-size: 2em;
 }
 h1 {
-	font-size: 4em;
+	font-size: 3em;
 	text-align: center;
 	width: 100%;
 }
 
 legend{
-	font-size: 3em;
+	font-size: 2em;
 	font-weight: bold;
 	font-size: 20px;
 	margin: 2px;
