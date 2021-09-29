@@ -1,51 +1,65 @@
-/*mobile*/
-body {
-	background-color: #313EEF;
-	font-family: system-ui;
+body{
+    font-family: "Verdana", Verdana, Arial, sans-serif;
+    min-height: 100vh;
+    background-color: grey; 
 }
 
-fieldset {
-	border: yellow solid;
-		text-align: center;
-		height: 200px;
+header{
+    background-color: #03203C;
+    color: #e4f1fe;
+	top: 0;
+    width: 100%;
+    position: fixed;
 }
 
-label {
-	display: block;
-	float: left;
-	width: 100%;
-	height: 15%
+header h1{
+    text-align: center;
+	margin: 1em auto;
+    font-size: 2.3em;
 }
 
-
-header {
-	background-color: #F8AE45;
-	color: #313EEF;
-	width: 100%;
-	position: fixed;
+.form label{
+    display: block;
 }
 
-#button {
-	color: black;
-	background-color: yellow;
-	font-size: 2em;
-}
-	color: white;
-	background-color: yellow;
-	width: fit-content; 
-	font size: 2em;
-	padding: 1em;
-h1 {
-	font-size: 3em;
-	text-align: center;
-	width: 100%;
+.form{
+    height: 50%;
+    width: 90%;
+    position: fixed;
+    top: 25%;
+    bottom: 25%;
+    left: 50%; 
+    margin-left: -45%;
 }
 
-legend{
-	font-size: 2em;
-	font-weight: bold;
-	font-size: 20px;
-	margin: 2px;
+.form .label{
+    font-size: 1.5em;
+    width: 90%;
+    margin: 1em auto;
+    text-align: left
+}
+
+.form fieldset legend{
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.form fieldset{
+    margin: 0 auto;
+}
+
+.button-container{
+    width: 100%;
+    height: 3em;
+    margin: 5em auto;
+    text-align: center;
+}
+
+.form .button{
+    width: 35%;
+    height: 4em;
+    background-color: yellow;
+    border-radius: 10px;
 }
 
 /*Desktop*/
