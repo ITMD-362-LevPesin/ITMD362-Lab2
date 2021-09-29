@@ -38,6 +38,8 @@ h1 {
 legend{
 	font-size: 3em;
 	font-weight: bold;
+	font-size: 20px;
+	margin: 2px;
 }
 
 /*Desktop*/
