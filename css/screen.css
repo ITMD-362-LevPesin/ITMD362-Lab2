@@ -17,12 +17,14 @@ header {
 	width: 100%;
 	position: fixed;
 	text-align: center;
-	font: 17pt
+	font: 17pt;
+	margin: 10px;
 }
 
 /*Desktop*/
 @media screen and (min-width: 1000px) {
 	.form .btn-container {
 		width: 30%;
+		positon: center;
 	}
 }
