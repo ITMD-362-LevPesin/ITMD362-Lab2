@@ -1,16 +1,9 @@
 body{
-    font-family: "Verdana", Verdana, Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     min-height: 100vh;
-    background-color: grey; 
+    background-color: #313EEF; 
 }
 
-header{
-    background-color: #03203C;
-    color: #e4f1fe;
-	top: 0;
-    width: 100%;
-    position: fixed;
-}
 
 header h1{
     text-align: center;
@@ -30,6 +23,13 @@ header h1{
     bottom: 25%;
     left: 50%; 
     margin-left: -45%;
+}
+
+
+header{
+    background-color: #F5B234;
+    width: 100%;
+    position: fixed;
 }
 
 .form .label{
