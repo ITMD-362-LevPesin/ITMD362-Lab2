@@ -35,15 +35,8 @@ label{
     text-align: left
 }
 
-.form fieldset legend{
-	
-    font-size: 2.5em;
-    text-align: right;
-}
-
-.form fieldset{
-    margin: 0 auto;
-}
+legend {
+	text-align: right;
 
 .button-container{
     width: 100%;
