@@ -10,6 +10,14 @@ fieldset {
 		height: 200px;
 }
 
+label {
+	display: block;
+	float: left;
+	width: 100%;
+	height: 15%
+}
+
+
 header {
 	background-color: #F8AE45;
 	color: #313EEF;
@@ -18,10 +26,19 @@ header {
 }
 
 #button {
+<<<<<<< HEAD
 	color: black;
 	background-color: yellow;
 	font-size: 2em;
 }
+=======
+	color: white;
+	background-color: yellow;
+	width: fit-content; 
+	font size: 2em;
+	padding: 1em;
+
+>>>>>>> parent of 2f59f24 (Update screen.css)
 h1 {
 	font-size: 3em;
 	text-align: center;
