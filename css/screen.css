@@ -24,6 +24,11 @@ header {
 	margin: 1em auto;
 }
 
+#button {
+	color: black;
+	background-color: yellow;
+	font-size: 2em;
+}
 h1 {
 	font-size: 4em;
 	text-align: center;
